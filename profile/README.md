@@ -39,8 +39,6 @@ We use Microsoft Planner as our single source of truth for project management an
 *   **Sprint Leads**: ARNAV AHUJA, ANDREW PAULL, AGAM AGARWAL
 *   **Responsibilities**: Our Sprint Leads challenge traditional agile frameworks by adapting them for rapid AI-driven development. They manage project backlogs, coordinate sprints, and document findings on how to best manage "Vibe Coded" workflows.
 
-> **A Note on Leadership**: Our leads are students just like you, volunteering their time to take on extra responsibilities. They don't have all the answers and are building their portfolios too. Please be respectful and, most importantly, **help your leads by making contributions**. Being a lead is not enough; you must demonstrate your leadership through genuine and impactful contributions.
-
 ---
 
 ## Our Projects (Trimester 2 2025)
@@ -69,18 +67,6 @@ This project explores how AI can enhance organizational workflows. Students will
 
 ---
 
-## Getting Started
-
-Follow these steps to get oriented and start making your first contribution.
-
-1.  **Join the Planner Workspace**: Find our Microsoft Planner in the InnovAIte MS Team. This is where all validation activities are coordinated.
-2.  **Attend Sprint Meetings**: These are held regularly for each project. They are your opportunity to get assigned tasks and ask questions.
-3.  **Familiarize Yourself with Teams & GitLab**: Join the MS Teams page and explore the channels. Explore our code and projects on the [InnovAIte GitLab](https://gitlab.deakin.edu.au/innovaite).
-4.  **Explore Trimester 1 Content**: Get up to speed by reviewing the **Handover Report**, watching the instructional videos on our **YouTube Channel**, and checking out the DeepDive videos on various AI tools.
-5.  **Select Your Project Track**: Based on your interests and skills, decide which of the 6 projects you would like to join and let a team lead know.
-6.  **Review OnTrack Requirements**: It is your personal responsibility to keep up with your OnTrack submissions. Add all important dates to your calendar.
-7.  **Make Contributions**: Assign yourself a task from the Planner backlog, start working, and don't hesitate to reach out to teammates or leads for help. Your contributions shape the future of entrepreneurship education at Deakin!
-
 ## Helpful Links
 
 *   **[InnovAIte GitLab](https://gitlab.deakin.edu.au/innovaite)**
@@ -91,5 +77,3 @@ Follow these steps to get oriented and start making your first contribution.
 *   **[InnovAIte Website](https://www.innovalte.org/)** (Example link, please update)
 *   **[InnovAIte Hackathon Hub](https://innovalte-spark.web.app/)** (Example link, please update)
 *   **[NoCodeJam.AI](http://nocodejam.ai/)**
-*   **[InnovAIte Projects Dashboard](https://innovalte-projects-dashboard-frontend.vercel.app/)**
-*   **[Skill Quest Sprint](https://preview--skill-quest-sprint.lovable.app/)**
