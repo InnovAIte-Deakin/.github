@@ -1,79 +1,60 @@
-# Welcome to InnovAIte!
+# Welcome to InnovAIte
+### The AI-Powered Startup Engine at Deakin University
 
-Welcome to InnovAIte, a School of IT Capstone Company aimed at trialing and validating AI tools and methods for the 2026 launch of **SPARK**, a student-led AI-powered entrepreneurship platform at Deakin University. We're excited to have you on board to help validate and prototype the core components of Australia's first AI-native startup engine.
+**InnovAIte** is a student-led Capstone Company at Deakin University, dedicated to trialing and validating the AI tools, methods, and frameworks that will power **SPARK**—Australia's first AI-native startup engine, launching in 2026.
 
-Our mission is to understand how AI tools and platforms can dramatically compress startup development cycles from months to days, making entrepreneurship more accessible to everyone regardless of their technical background.
-
-## Our Structure
-
-At InnovAIte, we operate with a collaborative structure that encourages team leadership and contributions from all students. We are assisted by a dedicated team of staff and industry mentors:
-
-*   **Dr. Bahadorreza Ofoghi** - Company Director & Product Owner, AAIE
-*   **Jessie McMeikan** - Product Owner, AI Generalist Program, AI Prototyping Lab & AI Organisation Design
-*   **Ian Jones** - Product Owner, AI Assisted Navigation Device & Venture Pipeline Management System
-*   **Scott West** - Industry Mentor, AI Generalist Program & AI Prototyping Lab
-*   **Leo Bruzzaniti** - Industry Mentor, AI Organisation Design
-*   **Nebula Alam** - Industry Mentor, AAIE
-*   **Jayamini De Silva** - Industry Mentor, Venture Pipeline Management System & AI Assisted Navigation Device
-
-## Our Operations: "The Three C's"
-
-Our company operates on three core principles: **Code**, **Communication**, and **Coordination**.
-
-### 1. Code
-We use GitLab as our central code repository. All project repositories are housed in our company-wide GitLab group.
-
-*   **GitLab Link**: **https://gitlab.deakin.edu.au/innovaite** (Sign in with Deakin SSO)
-*   **Code Integration Leads**: JAY SHRIMPTON, POOJA DISSANAYAKE
-*   **Responsibilities**: Our Code Leads manage our repositories, evaluate AI coding tools, establish best practices, and manage the handoff between AI-generated code and human refinement.
-
-### 2. Communication
-We use Microsoft Teams for all direct communication, updates, and event announcements.
-
-*   **Comms Leads**: Thomas Fleming, AHMAD TAHIR CHAUDHRY, ALBERT JULIANTO
-*   **Responsibilities**: Our Comms Leads manage the flow of information, handle company-wide OnTrack submissions, and are encouraged to explore technical contributions.
-
-### 3. Coordination
-We use Microsoft Planner as our single source of truth for project management and task tracking.
-
-*   **Sprint Leads**: ARNAV AHUJA, ANDREW PAULL, AGAM AGARWAL
-*   **Responsibilities**: Our Sprint Leads challenge traditional agile frameworks by adapting them for rapid AI-driven development. They manage project backlogs, coordinate sprints, and document findings on how to best manage "Vibe Coded" workflows.
+Our mission is to understand and demonstrate how AI can dramatically compress startup development cycles from months to days. By doing so, we aim to make entrepreneurship radically more accessible to everyone, regardless of their technical background.
 
 ---
 
-## Our Projects (Trimester 2 2025)
+## Our Core Programs
 
-This trimester, InnovAIte is running 6 core validation projects as part of our SPARK 2026 preparation.
+We operate through two foundational programs designed to explore the full spectrum of AI's potential in an entrepreneurial context.
 
-### 1. AI Generalist Program
-This program focuses on equipping non-technical users with the knowledge and tools to effectively use AI in academic and professional settings.
-*   **Last Trimester's Achievements**: The team conducted extensive research into generative AI tools (ChatGPT, Claude), developed educational toolkits, and created instructional videos and workshops. Key outputs included a functional AI-powered thesis statement generator, a personalized research assistant web app, and an AI attribution manager tool. They successfully ran workshops with Deakin staff and students to validate the tools and gather feedback.
+### 🎓 AI Generalist Program
+This program focuses on equipping non-technical users with the practical skills to leverage AI effectively. Through research and workshops, we create educational resources that demystify AI for academic and professional use.
 
-### 2. AI Prototyping Lab
-This lab explores the rapid, hands-on development of AI-powered tools to test how AI can significantly compress startup development timelines.
-*   **Last Trimester's Achievements**: Students built and tested several Minimum Viable Products (MVPs). Key projects included the **NoCodeJam.AI** hackathon platform, the official **InnovAIte Website**, the **Skill Quest Sprint** 30-day challenge platform, and a collaborative platform named **CollabHub AI**. The focus was on practical application, testing tool limits, and creating functional prototypes from scratch.
+*   **Key Focus Areas**: Generative AI for academic writing, AI-enhanced teaching tools, administrative automation, and prompt engineering fundamentals.
+*   **Key Outputs**: We have developed functional prototypes like an AI-powered **Thesis Generator** (using Cohere), a personalized **Research Assistant web app**, and a tool for managing **AI attribution**.
 
-### 3. Artificial Assessment Intelligence for Educators (AAIE) (New!)
-AAIE is a three-year initiative to develop a domain-specific LLM to assist educators with AI-aware assessment. Students will be grouped into specialized teams focusing on rubric simulation, mini-LLM prototyping, and use-case design, with a final goal of integrating with systems like CloudDeakin and OnTrack.
+### 💻 AI Prototyping Lab
+This lab is a hands-on incubator for rapidly developing and testing AI-powered applications. We build Minimum Viable Products (MVPs) to prove how AI can accelerate the journey from idea to a functional prototype.
 
-### 4. AI Assisted Navigation Device (New!)
-In collaboration with Mekong Inclusive Ventures (MIV), this project aims to prototype an AI-powered assistive navigation device for people with disabilities. Using camera-based systems and object detection, the device will provide real-time feedback to help users navigate their environment safely and effectively.
-
-### 5. Venture Pipeline Management System (New!)
-This project focuses on designing a venture pipeline tracking system to support the growth of inclusive businesses in Southeast Asia. The goal is to prototype a tool (using Airtable, Notion, or a custom build) to help MIV manage startups from diagnostics to investment readiness.
-
-### 6. AI Organisation Design (New!)
-This project explores how AI can enhance organizational workflows. Students will develop frameworks for responsible AI integration and investigate building user-friendly, AI-enhanced planning tools, with a major ambition to create an AI-powered project planner that outperforms existing services.
+*   **Key Outputs**: We have successfully built and deployed several platforms, including:
+    *   **[NoCodeJam.AI](http://nocodejam.ai/)**: A live platform for hosting AI-assisted no-code hackathons.
+    *   **[InnovAIte Website](https://innovalte-deakin.web.app/)**: The central hub for our company, built with a Supabase backend.
+    *   **Socratic Crumbs**: A multimodal chatbot with voice and vision capabilities for enhanced learning.
+    *   **[Skill Quest Sprint](https://preview--skill-quest-sprint.lovable.app/)**: A platform for mastering new skills through 30-day guided sprints.
 
 ---
 
-## Helpful Links
+## Current Validation Projects (Trimester 2 2025)
 
-*   **[InnovAIte GitLab](https://gitlab.deakin.edu.au/innovaite)**
-*   **[InnovAIte YouTube Channel](https://www.youtube.com/channel/YOUR_CHANNEL_LINK)** (Please update with the actual link)
-*   **[Company Handover Video](https://youtu.be/WPt6f4-sM4s)**
+Building on our foundation, we are currently validating a new wave of ambitious projects that span education, accessibility, and impact ventures.
 
-### Key Project Websites
-*   **[InnovAIte Website](https://www.innovalte.org/)** (Example link, please update)
-*   **[InnovAIte Hackathon Hub](https://innovalte-spark.web.app/)** (Example link, please update)
-*   **[NoCodeJam.AI](http://nocodejam.ai/)**
+1.  **Artificial Assessment Intelligence for Educators (AAIE)**: Developing a custom-trained LLM to assist educators with AI-aware assessment design and feedback.
+2.  **AI Assisted Navigation Device**: Prototyping an assistive device to improve mobility and accessibility for people with disabilities.
+3.  **Venture Pipeline Management System**: Designing a system to help track and support the growth of inclusive businesses in Southeast Asia.
+4.  **AI Organisation Design**: Exploring how AI can transform organizational workflows, with the goal of creating a next-generation AI-powered project planner.
+
+---
+
+## Technology and Collaboration
+
+Our stack includes core development technologies, major AI platforms, and a suite of innovative AI-native tools that allow for rapid prototyping.
+
+![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Google AI](https://img.shields.io/badge/Google%20AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97743?style=for-the-badge)
+![Bolt.new](https://img.shields.io/badge/Bolt.new-1389FD?style=for-the-badge&logo=stackblitz&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-00E393?style=for-the-badge)
+![Windsurf](https://img.shields.io/badge/Windsurf-00A99D?style=for-the-badge)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+All our project code and ongoing work can be explored in our public-facing repositories.
+
+- **[Explore our Projects on GitLab](https://gitlab.deakin.edu.au/innovaite)**
+- **[Watch our Demos on YouTube](https://www.youtube.com/@InnovAIteDeakin)**
+
+We are proud to be supported by a dedicated team of academic staff and industry mentors from Deakin University and beyond.
