@@ -1,9 +1,3 @@
-Got it. Placing the contribution rules before the tech stack is a great idea, as it sets the expectations for collaboration upfront.
-
-Here is the updated `README.md` with the sections reordered as requested.
-
----
-
 # Welcome to InnovAIte
 ### The AI-Powered Startup Engine at Deakin University
 
