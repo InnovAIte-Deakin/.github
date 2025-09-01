@@ -1,3 +1,9 @@
+Got it. Placing the contribution rules before the tech stack is a great idea, as it sets the expectations for collaboration upfront.
+
+Here is the updated `README.md` with the sections reordered as requested.
+
+---
+
 # Welcome to InnovAIte
 ### The AI-Powered Startup Engine at Deakin University
 
@@ -39,6 +45,68 @@ Building on our foundation, we are currently validating a new wave of ambitious 
 
 ---
 
+## 💻 Contribution and Collaboration Rules
+
+To ensure our collaboration is smooth and our codebase remains clean and stable, please adhere to the following guidelines.
+
+### 🚫 Locking the `main` Branch
+The `main` branch is our source of truth and is always production-ready.
+-   Direct pushes to `main` are **not allowed**.
+-   All contributions must be submitted via **pull requests (PRs)**.
+-   PRs merged into `main` must have at least one approved review.
+
+### 🔁 Creating Pull Requests (PRs)
+All changes—whether code, documentation, or assets—must go through a Pull Request. Every PR should:
+-   Be linked to an issue or task in our project tracker (where applicable).
+-   Have a clear, descriptive title and a summary of the changes.
+-   Be assigned to at least one reviewer for feedback.
+
+### 👀 Code Review Requirements
+Code reviews are critical for maintaining quality.
+-   Every PR must be reviewed and approved by **at least one** team member before merging.
+-   Reviewers should check for:
+    -   **Clarity & Maintainability**: Is the code easy to understand and build upon?
+    -   **Alignment**: Does it follow our team's coding standards and conventions?
+    -   **Functionality**: Does it solve the intended issue or add the feature correctly?
+
+### 🌿 Branching Strategy
+We use a feature-branch workflow to keep our `main` branch stable.
+-   **✅ Always branch off from the latest `main` branch.**
+-   Branch names should be descriptive and follow this convention:
+    ```
+    feature/[feature-name]
+    fix/[issue-number]-[bug-name]
+    docs/[document-name]
+    release/[version-tag]
+    ```
+-   Once your work is complete, open a PR to merge your branch back into `main`.
+
+### 🔐 Limiting Admin Access
+To protect our repositories, access is managed strictly.
+-   **Admin rights** are reserved for team leads.
+-   All other team members will have **collaborator/contributor** access.
+-   Each team must designate one person to hold admin access for their repository and communicate this to the leadership team.
+
+### ✅ Best Practices
+-   **💾 Commit Frequently and Meaningfully**: Small, atomic commits help us track changes. Use clear, conventional commit messages (e.g., `fix: corrected user XP calculation logic`). **Avoid vague messages** like `Updated code`.
+-   **📌 Use Issues for Tracking**: Open an issue for any bug, feature request, or significant task. Use labels to categorize them (e.g., `bug`, `enhancement`, `documentation`).
+-   **📚 Keep Documentation Updated**: Update the `README.md` and other relevant documentation whenever setup steps, dependencies, or workflows change.
+-   **🧪 Test Locally Before Submitting a PR**: Ensure your code runs and passes all basic checks (linting, building, tests) on your local machine before opening a pull request.
+-   **📬 Be Responsive**: Reply to code review comments and issue discussions promptly to keep the development process moving forward.
+
+---
+
+### 🧠 Data Handling and Ethics
+-   **📊 Use Curated and Ethical Datasets**: Always check the source, license, and potential biases of any dataset. Document all data sources in a `DATA_SOURCES.md` file.
+-   **🧼 Document Data Preprocessing**: All data cleaning and preprocessing steps must be documented in reproducible scripts.
+-   **🔒 Respect Privacy**: **Never commit sensitive data**. This includes student info, API keys, or personally identifiable information. Use `.gitignore` and environment variables for secrets.
+-   **⚖️ Bias and Fairness Checks**: Regularly test models for unfair outcomes across different user groups.
+
+### 🧪 Model Development Practices
+-   **🧱 Baseline First**: Always start with a simple baseline model or heuristic. This provides a benchmark to measure the performance of more complex architectures.
+
+---
+
 ## Technology and Collaboration
 
 Our stack includes core development technologies, major AI platforms, and a suite of innovative AI-native tools that allow for rapid prototyping.
@@ -51,6 +119,8 @@ Our stack includes core development technologies, major AI platforms, and a suit
 ![Cursor](https://img.shields.io/badge/Cursor-00E393?style=for-the-badge)
 ![Windsurf](https://img.shields.io/badge/Windsurf-00A99D?style=for-the-badge)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+---
 
 All our project code and ongoing work can be explored in our public-facing repositories.
 
