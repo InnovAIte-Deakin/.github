@@ -75,6 +75,60 @@ We use a feature-branch workflow to keep our `main` branch stable.
     ```
 -   Once your work is complete, open a PR to merge your branch back into `main`.
 
+---
+
+## 🚀 How to Contribute (Fork → Commit → Pull Request)  
+Follow these steps whenever you want to contribute code or documentation:
+
+### 1. Fork the repository  
+🔹 Go to the project repository on GitHub.  
+🔹 Click the **Fork** button (top right) to create your own copy under your GitHub account.
+
+### 2. Clone your fork  
+```bash
+git clone https://github.com/<your-username>/<repo-name>.git  
+cd <repo-name>
+```
+
+### 3. Add the upstream remote (original repo)**  
+This keeps your fork synced with the main project:  
+```bash
+git remote add upstream https://github.com/<org-name>/<repo-name>.git
+```
+
+### 4. Create a feature branch  
+Always create a new branch for your work:  
+```bash
+git checkout -b feature/<short-description>
+```
+
+### 5. Make your changes locally  
+🔹 Edit files / add new code.  
+🔹 Test your changes before committing.
+
+### 6. Stage and commit your changes  
+```bash
+git add .  
+git commit -m "feat: add [suitable commit message]"
+```
+💡 Use clear, descriptive commit messages.
+
+### 7. Push your branch to your fork  
+```bash
+git push origin feature/<branch>
+```
+
+### 8. Open a Pull Request (PR)  
+🔹 Go to your fork on GitHub.  
+🔹 Click **Compare & pull request**.  
+🔹 Select the base branch as `main` in the original repo, and your branch as the compare branch.  
+🔹 Add a description of what you changed and why.  
+🔹 Request at least one reviewer.
+
+✅ That’s it! Once your PR is reviewed and approved, it can be merged into the main repository.
+
+---
+
 ### 🔐 Limiting Admin Access
 To protect our repositories, access is managed strictly.
 -   **Admin rights** are reserved for team leads.
